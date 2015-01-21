@@ -1,0 +1,28 @@
+{
+  "name": "stormpath-intercom",
+  "version": "1.0.0",
+  "description": "Sync your Stormpath accounts with Intercom!",
+  "main": "stormpath-intercom.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rdegges/stormpath-intercom"
+  },
+  "keywords": [
+    "stormpath",
+    "intercom"
+  ],
+  "author": "Randall Degges",
+  "license": "UNLICENSE",
+  "bugs": {
+    "url": "https://github.com/rdegges/stormpath-intercom/issues"
+  },
+  "homepage": "https://github.com/rdegges/stormpath-intercom",
+  "dependencies": {
+    "intercom.io": "^1.0.5",
+    "minimist": "^1.1.0",
+    "stormpath": "^0.8.1"
+  }
+}
