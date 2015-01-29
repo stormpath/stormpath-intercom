@@ -64,7 +64,7 @@ job -- this way, any user accounts you have will be automatically synced with
 Intercom, and you'll continuously have an up-to-date directory of users!
 
 
-  [Stick Figure Sketch]: https://github.com/rdegges/stormpath-intercom/raw/master/assets/stick-figure-sketch.png "Stick Figure Sketch"
+  [Stick Figure Sketch]: https://github.com/stormpath/stormpath-intercom/raw/master/assets/stick-figure-sketch.png "Stick Figure Sketch"
   [Stormpath]: https://stormpath.com/ "Stormpath"
   [Intercom]: https://www.intercom.io/ "Intercom"
   [npm]: https://www.npmjs.org/ "npm"
