@@ -28,8 +28,8 @@ running:
 $ npm install -g stormpath-intercom
 ```
 
-**NOTE**: Depending on how you have `npm` installed, you might need to run the
-above command with `sudo`.
+**NOTE**: If you aren't using an environment manager like `nvm`, you may need to
+run the above command with `sudo`.
 
 
 ## Usage
