@@ -22,7 +22,7 @@
   "homepage": "https://github.com/stormpath/stormpath-intercom",
   "dependencies": {
     "intercom.io": "^1.0.5",
-    "minimist": "^1.1.0",
+    "minimist": "^1.2.0",
     "stormpath": "^0.8.1"
   },
   "preferGlobal": "true",
